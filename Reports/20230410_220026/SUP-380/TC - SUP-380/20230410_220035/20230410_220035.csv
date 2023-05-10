@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC - SUP-380,Chrome 108.0.0.0,,,2023-04-10 22:00:49,2023-04-10 22:03:23,"2m - 33,929s",FAILED
+,,,,,,,
+Test Cases/SUP-380 -BackOffice - Gestão de Utilizadores - Erro ao Visualizar Documento,Chrome 108.0.0.0,,SUP-380,2023-04-10 22:01:47,2023-04-10 22:01:50,"2,956s",FAILED
+"openBrowser("""")",Chrome 108.0.0.0,,,2023-04-10 22:01:47,2023-04-10 22:01:48,"1,210s",PASSED
+maximizeWindow(),Chrome 108.0.0.0,,,2023-04-10 22:01:48,2023-04-10 22:01:48,"0,136s",PASSED
+navigateToUrl(URL),Chrome 108.0.0.0,,,2023-04-10 22:01:48,2023-04-10 22:01:49,"1,311s",PASSED
+"setText(findTestObject(""Page_SIGT-Login-Sistema Integrado de Gesto _a92a66/input_Username_j_username""), utilizador)",Chrome 108.0.0.0,,,2023-04-10 22:01:49,2023-04-10 22:01:50,"0,269s",FAILED
+,,,,,,,
+Test Cases/SUP-380 -BackOffice - Gestão de Utilizadores - Erro ao Visualizar Documento,Chrome 108.0.0.0,,SUP-380,2023-04-10 22:01:59,2023-04-10 22:02:02,"3,252s",FAILED
+"openBrowser("""")",Chrome 108.0.0.0,,,2023-04-10 22:01:59,2023-04-10 22:02:00,"1,448s",PASSED
+maximizeWindow(),Chrome 108.0.0.0,,,2023-04-10 22:02:00,2023-04-10 22:02:00,"0,167s",PASSED
+navigateToUrl(URL),Chrome 108.0.0.0,,,2023-04-10 22:02:00,2023-04-10 22:02:02,"1,370s",PASSED
+"setText(findTestObject(""Page_SIGT-Login-Sistema Integrado de Gesto _a92a66/input_Username_j_username""), utilizador)",Chrome 108.0.0.0,,,2023-04-10 22:02:02,2023-04-10 22:02:02,"0,240s",FAILED
+,,,,,,,
+Test Cases/SUP-380 -BackOffice - Gestão de Utilizadores - Erro ao Visualizar Documento,Chrome 108.0.0.0,,SUP-380,2023-04-10 22:02:19,2023-04-10 22:03:23,"1m - 3,805s",PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2023-04-10 22:02:19,2023-04-10 22:02:20,"1,494s",PASSED
+maximizeWindow(),Chrome 108.0.0.0,,,2023-04-10 22:02:20,2023-04-10 22:02:21,"0,138s",PASSED
+navigateToUrl(URL),Chrome 108.0.0.0,,,2023-04-10 22:02:21,2023-04-10 22:02:23,"2,111s",PASSED
+"setText(findTestObject(""Page_SIGT-Login-Sistema Integrado de Gesto _a92a66/input_Username_j_username""), utilizador)",Chrome 108.0.0.0,,,2023-04-10 22:02:23,2023-04-10 22:02:24,"0,988s",PASSED
+"setText(findTestObject(""Page_SIGT-Login-Sistema Integrado de Gesto _a92a66/input_Password_j_password""), senha)",Chrome 108.0.0.0,,,2023-04-10 22:02:24,2023-04-10 22:02:25,"0,792s",PASSED
+"click(findTestObject(""Object Repository/Page_SIGT-Login-Sistema Integrado de Gesto _a92a66/input_Password_j_id_s""))",Chrome 108.0.0.0,,,2023-04-10 22:02:25,2023-04-10 22:02:33,"8,170s",PASSED
+"click(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/p_Gesto de Utilizadores""))",Chrome 108.0.0.0,,,2023-04-10 22:02:33,2023-04-10 22:02:34,"1,650s",PASSED
+"click(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/p_Gesto de Pedidos""))",Chrome 108.0.0.0,,,2023-04-10 22:02:34,2023-04-10 22:02:56,"21,689s",PASSED
+"setText(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/input_NIF_frmSearchRegisterinput-nif""), ""005858180NE049"")",Chrome 108.0.0.0,,,2023-04-10 22:02:56,2023-04-10 22:02:57,"1,017s",PASSED
+"click(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/body_Toggle navigationSairAdministrao Geral_640c53""))",Chrome 108.0.0.0,,,2023-04-10 22:02:57,2023-04-10 22:02:58,"0,491s",PASSED
+"click(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/span_Pesquisar""))",Chrome 108.0.0.0,,,2023-04-10 22:02:58,2023-04-10 22:02:58,"0,866s",PASSED
+"click(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/td_005858180NE049""))",Chrome 108.0.0.0,,,2023-04-10 22:02:58,2023-04-10 22:03:20,"22,007s",PASSED
+"click(findTestObject(""Object Repository/Page_ADM - GESTO ACESSO/span_visualizar""))",Chrome 108.0.0.0,,,2023-04-10 22:03:20,2023-04-10 22:03:23,"2,367s",PASSED

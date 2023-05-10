@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_000079295LA010</name>
+   <tag></tag>
+   <elementGuidId>12fe7036-cd93-4c7f-ae78-ba8943bdfd6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='dataExplorerTableBody1']/tr[6]/td[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0f41c1e6-39cd-4cec-9e7b-0eaf3f28f0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>000079295LA010</value>
+      <webElementGuid>e5d655e1-c06f-4a07-afa9-04d09be0070e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataExplorerTableBody1&quot;)/tr[@class=&quot;gridAlt paddedCell explorerGrid&quot;]/td[@class=&quot;paddedCell explorerGrid nowrap reg clickable&quot;]/span[1]</value>
+      <webElementGuid>5d58a6cb-4259-405d-a13b-71f51ae5248a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='dataExplorerTableBody1']/tr[6]/td[2]/span</value>
+      <webElementGuid>9a5ebf55-9502-4f53-a49d-88a34b0e4547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CASSECA, GELITO'])[2]/following::span[3]</value>
+      <webElementGuid>b39a4bf8-985c-41b4-97c5-47b0345d6e92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LNIF'])[5]/following::span[6]</value>
+      <webElementGuid>e30b1668-19ff-427f-8bf6-0899d4ee43e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SANTOS, VIVI - Singular -'])[1]/preceding::span[1]</value>
+      <webElementGuid>b8cef90e-5a85-41ad-8186-0e66fe9fe3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIVI SANTOS'])[1]/preceding::span[2]</value>
+      <webElementGuid>c9d3b5d3-8a42-4ca2-a808-e3dbeae617a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='000079295LA010']/parent::*</value>
+      <webElementGuid>9b886b6a-04e6-4e30-933e-f7e9465b24af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/span</value>
+      <webElementGuid>65612171-93e0-443b-b644-b15bd5a9667f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '000079295LA010' or . = '000079295LA010')]</value>
+      <webElementGuid>8744c0d4-9f45-4449-b76f-0ab52970b131</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

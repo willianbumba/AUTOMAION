@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Formulrio de Liquidao</name>
+   <tag></tag>
+   <elementGuidId>ef26263c-b86c-46bc-9dca-1d619f1deeea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='CI_FORM_subMenuItem2x0']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#CI_FORM_subMenuItem2x0 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9eea5e8f-7244-4bef-a918-ccd900476a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menuobj</name>
+      <type>Main</type>
+      <value>CI_MAINMENU</value>
+      <webElementGuid>b72baca0-abc5-4420-826f-8540708beffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Formulário de Liquidação</value>
+      <webElementGuid>8a8c1a5b-7b85-4ad6-b4f8-2d779601a889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CI_FORM_subMenuItem2x0&quot;)/span[1]</value>
+      <webElementGuid>502881d1-cb8f-4259-9137-1315cb4cc8e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SIGT/Page_Pesquisa a 360 Graus/frame_Navegador no suportado_main</value>
+      <webElementGuid>ee4df42c-a33e-4a6f-9355-b988d8f1e64b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='CI_FORM_subMenuItem2x0']/span</value>
+      <webElementGuid>02507420-9f99-436f-b285-abba178113cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adicionar'])[1]/following::span[2]</value>
+      <webElementGuid>d93b6a76-a90d-46d2-99b9-3f2c145b2e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pesquisar'])[1]/following::span[4]</value>
+      <webElementGuid>a04d5827-f609-4b4c-81a3-586f8ec03e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formulário de Cadastro'])[1]/preceding::span[2]</value>
+      <webElementGuid>e814df35-9b8e-48d6-a8dc-2dd570e7dd4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cadastro de Contribuinte'])[1]/preceding::span[6]</value>
+      <webElementGuid>3e127516-8df6-44d9-855c-c2487f5455b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Formulário de Liquidação']/parent::*</value>
+      <webElementGuid>b6ee885a-2c08-4003-a37e-647ddffb9f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/span</value>
+      <webElementGuid>357aa356-6b39-47d6-948f-fdaa4da58c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Formulário de Liquidação' or . = 'Formulário de Liquidação')]</value>
+      <webElementGuid>f50c864b-459d-4da4-a652-32b6393d793e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

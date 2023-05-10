@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Declaraes</name>
+   <tag></tag>
+   <elementGuidId>7181a8fb-dfcf-42b3-8772-98946ff91c4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnDeclaration > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnDeclaration']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4446233d-be86-4403-99c5-2b79e1ac623c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Declarações</value>
+      <webElementGuid>406e10d8-e87e-45b9-ab62-22ae93aaa6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnDeclaration&quot;)/span[1]</value>
+      <webElementGuid>22211dfa-4532-4280-b800-6bf8e76f4b22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btnDeclaration']/span</value>
+      <webElementGuid>a6cbdaa1-d114-4506-a98a-1f97a7ddcdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extracto de Conta Corrente'])[2]/following::span[1]</value>
+      <webElementGuid>2a3e84cb-2d57-4734-bab4-8d2b30dc56ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conta Corrente'])[2]/following::span[2]</value>
+      <webElementGuid>b89ec6a1-8cb5-4f5d-bbfe-d942af2e55e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='II'])[3]/preceding::span[1]</value>
+      <webElementGuid>121cdbc8-4486-4714-bb81-b52c049ea8ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar'])[6]/preceding::span[2]</value>
+      <webElementGuid>129e806c-aead-4122-a646-4ab1423ba38e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[9]/a/span</value>
+      <webElementGuid>8bae5f91-6462-4f41-9a7e-436a0b16361f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Declarações' or . = 'Declarações')]</value>
+      <webElementGuid>96899944-e0d5-46d3-b18c-a729fb60559b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

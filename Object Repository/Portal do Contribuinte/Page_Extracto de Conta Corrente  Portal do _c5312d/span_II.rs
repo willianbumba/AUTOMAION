@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_II</name>
+   <tag></tag>
+   <elementGuidId>fbb25b28-2180-4435-b2f0-d0ea971fd6fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accordion6 > a.collapsed > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='accordion6']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a906deb0-383f-4ea9-9c7c-a806a170af21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>II</value>
+      <webElementGuid>6c55f022-1846-45d3-9245-58276fb1505f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion6&quot;)/a[@class=&quot;collapsed&quot;]/span[1]</value>
+      <webElementGuid>77933391-cb40-4199-9441-0fc4f2ca15fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='accordion6']/a/span</value>
+      <webElementGuid>fc00925a-f965-493a-8b57-0370697e8c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declarações'])[2]/following::span[1]</value>
+      <webElementGuid>1efb28ef-5952-4525-b585-44358c9be78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Extracto de Conta Corrente'])[2]/following::span[2]</value>
+      <webElementGuid>758fe5b8-a59b-4ff0-9b0c-095be3aa20ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar'])[6]/preceding::span[1]</value>
+      <webElementGuid>8fd5ed3f-e8d5-4cb6-bddb-ef5cd216f6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaração Anual'])[3]/preceding::span[2]</value>
+      <webElementGuid>95093414-2e09-49bd-8481-40e191488118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[9]/ul/li/a/span</value>
+      <webElementGuid>9f3cea27-6741-4dbb-bc80-b3469b296804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'II' or . = 'II')]</value>
+      <webElementGuid>13d943b2-a4ae-4b6a-8558-24373b193287</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>ADM POLARIS</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>POLARIS</description>
+      <initValue>'http://10.129.105.61:8022/management-user/login'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ID Utilizador</description>
+      <initValue>findTestData('Utilizadores/acesso ao sistema').getValue(1, 3)</initValue>
+      <name>utilizador</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Palavra-passe</description>
+      <initValue>findTestData('Utilizadores/acesso ao sistema').getValue(2, 3)</initValue>
+      <name>senha</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

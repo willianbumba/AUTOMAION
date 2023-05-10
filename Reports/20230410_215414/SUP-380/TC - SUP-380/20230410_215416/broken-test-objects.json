@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_ADM - GESTO ACESSO/p_Gesto de Utilizadores",
+      "brokenLocator": "//main[@id\u003d\u0027content\u0027]/div/div/div/div/a/p",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027sdfsd\u0027])[1]/following::p[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230410_215414/SUP-380/TC - SUP-380/20230410_215416/Object Repository/Page_ADM - GESTO ACESSO/p_Gesto de Utilizadores_neighbor.png"
+    }
+  ]
+}

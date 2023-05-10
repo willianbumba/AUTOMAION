@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>PORTAL POLARIS</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>PORTAL CONTRIBUINTE POLARIS</description>
+      <initValue>'http://10.129.105.61:8003/login'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>ID Utilizador</description>
+      <initValue>findTestData('Utilizadores/acesso ao sistema').getValue(1, 4)</initValue>
+      <name>utilizador</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Palavra-passe</description>
+      <initValue>findTestData('Utilizadores/acesso ao sistema').getValue(2, 4)</initValue>
+      <name>senha</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

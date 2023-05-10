@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SUP-372 - Mapa de Retenção na Fonte de II - Sistema Está Alterar as Datas da Factura</name>
+   <tag>SUP-372</tag>
+   <comment></comment>
+   <testCaseGuid>2d23faf8-f964-4591-b7d6-f997f59c8a2a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>eac5acd6-480c-49fe-a4f6-17877dc99116</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>4-4</value>
+      </iterationEntity>
+      <testDataId>Data Files/Utilizadores/acesso ao sistema</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>eac5acd6-480c-49fe-a4f6-17877dc99116</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Utilizador</value>
+      <variableId>b3a3fa95-5254-4bf4-89d1-30c317867d69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>eac5acd6-480c-49fe-a4f6-17877dc99116</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>senha</value>
+      <variableId>7d6cf7d1-c715-47b1-b81a-5edbb4239fac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3a3fa95-5254-4bf4-89d1-30c317867d69</id>
+      <masked>false</masked>
+      <name>utilizador</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d6cf7d1-c715-47b1-b81a-5edbb4239fac</id>
+      <masked>false</masked>
+      <name>senha</name>
+   </variable>
+</TestCaseEntity>

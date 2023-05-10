@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Baixar PDF_fa fa-angle-right</name>
+   <tag></tag>
+   <elementGuidId>ff5ecccf-5d9c-482c-aae6-8640275e8806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='content']/div/main/div/div/ul/li[15]/div/div/p/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>36207620-624d-4495-b530-9101bb3a5320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-angle-right</value>
+      <webElementGuid>fda54fc9-d082-4d5f-bc30-b68563d4654a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>893567d8-9a61-4949-9c94-c7adc617561a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row-md&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;panel panel-default clearfix&quot;]/ul[@class=&quot;text-center clearfix container-box-shadow margin-top-twenty-five&quot;]/li[@class=&quot;col-sm-6 fixed-height margin-bottom-twenty&quot;]/div[@class=&quot;box-shadow fixed-height no-video&quot;]/div[@class=&quot;clearfix&quot;]/p[1]/a[@class=&quot;botao-noticias&quot;]/i[@class=&quot;fa fa-angle-right&quot;]</value>
+      <webElementGuid>101459bd-2b0f-4378-89f8-37589d1ff7fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='content']/div/main/div/div/ul/li[15]/div/div/p/a/i</value>
+      <webElementGuid>7b7dbd4f-355c-49e7-9d08-a94103436897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/div/div/p/a/i</value>
+      <webElementGuid>f0ef3368-3f17-4e41-9f9e-b681ed1d2b01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

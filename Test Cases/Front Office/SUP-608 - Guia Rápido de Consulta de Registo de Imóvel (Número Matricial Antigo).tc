@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>P1: Aceder ao link:https://frontoffice.minfin.gov.ao/frontoffice/login
+P2: Menu Ajuda → Guias Rápidos → Gestão de Patrimônio
+
+Comportamento Actual:
+Na Secção dos Guias Rápidos de Gestão de Patrimônio não existe actualmente o PDF do Guia Rápido de Consulta de Registo de Imóvel (Número Matricial Antigo).</description>
+   <name>SUP-608 - Guia Rápido de Consulta de Registo de Imóvel (Número Matricial Antigo)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b48c7f7-1357-43aa-9cbc-02ced42b460d</testCaseGuid>
+</TestCaseEntity>

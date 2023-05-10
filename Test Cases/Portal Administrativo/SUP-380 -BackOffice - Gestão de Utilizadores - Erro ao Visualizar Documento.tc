@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SUP-380 -BackOffice - Gestão de Utilizadores - Erro ao Visualizar Documento</name>
+   <tag>SUP-380</tag>
+   <comment></comment>
+   <testCaseGuid>77c4df23-4e8f-41da-b50e-b2f94907d230</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>264a6a81-501c-4a9b-a335-65feab6a7f52</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>3-3</value>
+      </iterationEntity>
+      <testDataId>Data Files/Utilizadores/acesso ao sistema</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>264a6a81-501c-4a9b-a335-65feab6a7f52</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Utilizador</value>
+      <variableId>9a1c4015-43b4-4bef-8b48-abf48390689a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>264a6a81-501c-4a9b-a335-65feab6a7f52</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>senha</value>
+      <variableId>7553d1d9-3d33-469f-abba-5b13a376c70d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a1c4015-43b4-4bef-8b48-abf48390689a</id>
+      <masked>true</masked>
+      <name>utilizador</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7553d1d9-3d33-469f-abba-5b13a376c70d</id>
+      <masked>true</masked>
+      <name>senha</name>
+   </variable>
+</TestCaseEntity>

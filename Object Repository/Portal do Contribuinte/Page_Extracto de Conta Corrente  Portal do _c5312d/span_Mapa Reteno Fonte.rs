@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mapa Reteno Fonte</name>
+   <tag></tag>
+   <elementGuidId>2a7a0ef4-e863-4e94-92d3-403748a7187b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#submenu-level1-g > li.retencao-na-fonte > a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='submenu-level1-g']/li[3]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>373cb33c-179f-42bc-90d0-80347ef278f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mapa Retenção Fonte</value>
+      <webElementGuid>2f85cd88-7d5a-4d9a-916c-318e81d34125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu-level1-g&quot;)/li[@class=&quot;retencao-na-fonte&quot;]/a[1]/span[1]</value>
+      <webElementGuid>5e70ed5c-ec46-402a-af73-5bc44e38ae8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='submenu-level1-g']/li[3]/a/span</value>
+      <webElementGuid>59d8f438-0e1f-4e70-ac78-5a6e4ab126c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquidação Provisória'])[2]/following::span[1]</value>
+      <webElementGuid>45916c5c-4aca-4122-a793-264aed345e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaração Anual'])[4]/following::span[2]</value>
+      <webElementGuid>faeceeab-d453-453c-b029-a9d0a175ab31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IRT'])[3]/preceding::span[1]</value>
+      <webElementGuid>031bd3a5-e60f-43e0-a030-b93742268112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IRT'])[4]/preceding::span[2]</value>
+      <webElementGuid>67f0f661-83af-427c-b7b2-414d04cea74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/ul/li[3]/a/span</value>
+      <webElementGuid>2ae6b37b-ac2a-4a1e-863c-b6787b62c489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mapa Retenção Fonte' or . = 'Mapa Retenção Fonte')]</value>
+      <webElementGuid>56c8f06e-46d2-4456-ba18-f2ac4d0bb554</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data da Factura_col-sm-4</name>
+   <tag></tag>
+   <elementGuidId>c670393e-a8d3-4eea-a25c-a33b6c7edb32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-12 > div.col-sm-12 > div.form-group.row > div.col-sm-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formAddRecipient']/div/div[5]/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>066ab5f8-10c2-4c85-ac91-ef1e31dc4ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-4</value>
+      <webElementGuid>0286557b-b5f8-4119-85e8-b0a9ea2498c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formAddRecipient&quot;)/div[@class=&quot;panel-default form-horizontal&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-4&quot;]</value>
+      <webElementGuid>6299d58f-14c8-4bba-be4e-64dbebb5d5a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formAddRecipient']/div/div[5]/div/div/div[4]/div</value>
+      <webElementGuid>1a83405c-0110-4b92-8865-9d2af5c7abfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data da Factura*'])[1]/following::div[1]</value>
+      <webElementGuid>df3f6782-863b-4bfb-b387-19c64f578b1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Descrição do Serviço*'])[1]/following::div[3]</value>
+      <webElementGuid>23da18ea-2e78-4618-8e13-67133a7520ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data do Pagamento*'])[1]/preceding::div[1]</value>
+      <webElementGuid>9c29c05b-dcd4-42cc-8384-405042ec04a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valor da Factura'])[1]/preceding::div[3]</value>
+      <webElementGuid>b328ff96-15e2-4729-9c11-39ae1b3dba10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[4]/div</value>
+      <webElementGuid>ce5922fd-e52e-407b-b652-0a4a248f1f61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

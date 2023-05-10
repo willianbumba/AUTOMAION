@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entregar</name>
+   <tag></tag>
+   <elementGuidId>b509bcf3-a465-471b-b706-a072f8cca489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='submenu-level1-a']/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>954f4135-3917-47be-b2de-e4a0f690d69b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entregar</value>
+      <webElementGuid>9dd76e36-a581-4315-bc3b-4961f1e8ab41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu-level1-a&quot;)/li[@class=&quot;submenu panel&quot;]/a[@class=&quot;collapsed&quot;]/span[1]</value>
+      <webElementGuid>001a572c-93a8-4c7a-a7d1-bcd9b76ffe8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='submenu-level1-a']/li[2]/a/span</value>
+      <webElementGuid>4d6a6c12-d706-4ecc-8951-e9032efd6c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valores Retidos'])[1]/following::span[1]</value>
+      <webElementGuid>2da1dac0-2404-4c5f-a604-0c8edabf3fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mapa Retenção Fonte'])[1]/following::span[2]</value>
+      <webElementGuid>ddd2a431-3d00-47ff-8990-295d34de29e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaração Anual'])[4]/preceding::span[1]</value>
+      <webElementGuid>f3eecf94-1785-4978-b5d9-7cc6f11c87b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquidação Provisória'])[2]/preceding::span[2]</value>
+      <webElementGuid>7debaca2-b17c-4736-a6d8-90c3cb721702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li/ul/li[2]/a/span</value>
+      <webElementGuid>e1cf0a8d-030e-4616-8840-40ffcc8bc916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Entregar' or . = 'Entregar')]</value>
+      <webElementGuid>8671f471-71ec-413e-b5b6-dc01f33e8c54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
